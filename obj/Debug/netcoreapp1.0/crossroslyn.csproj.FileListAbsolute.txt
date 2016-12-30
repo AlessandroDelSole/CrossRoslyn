@@ -1,0 +1,8 @@
+c:\Temp\crossroslyn\bin\Debug\netcoreapp1.0\crossroslyn.deps.json
+c:\Temp\crossroslyn\bin\Debug\netcoreapp1.0\crossroslyn.runtimeconfig.json
+c:\Temp\crossroslyn\bin\Debug\netcoreapp1.0\crossroslyn.runtimeconfig.dev.json
+c:\Temp\crossroslyn\bin\Debug\netcoreapp1.0\crossroslyn.dll
+c:\Temp\crossroslyn\bin\Debug\netcoreapp1.0\crossroslyn.pdb
+c:\Temp\crossroslyn\obj\Debug\netcoreapp1.0\crossroslyn.AssemblyInfo.cs
+c:\Temp\crossroslyn\obj\Debug\netcoreapp1.0\crossroslyn.dll
+c:\Temp\crossroslyn\obj\Debug\netcoreapp1.0\crossroslyn.pdb
